@@ -1,1 +1,0 @@
-git working file changed in remote repository has been successfully edited and updated.

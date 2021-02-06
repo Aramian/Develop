@@ -1,9 +1,0 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-code file 1
-=======
-This is the code
->>>>>>> sub
-=======
-This is the code
->>>>>>> sub
